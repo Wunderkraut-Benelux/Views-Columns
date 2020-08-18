@@ -1,3 +1,6 @@
+This repo has been moved to Bitbucket.
+https://bitbucket.org/appno/views-columns/src/master/
+
 Views Columns
 
 Maintainer: Matthias Vandermaesen
